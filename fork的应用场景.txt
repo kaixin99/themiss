@@ -1,5 +1,8 @@
+
 GitHub中Fork 即是 服务端的仓库克隆，
+
 包含了原来的仓库（即upstream repository，上游仓库）所有内容，如分支、Tag、提交；
+
 
 代码托管服务（如Github、BitBucket）提供了方便的完成Fork操作的功能。
 在仓库页面点一下Fork按钮,这样有了一个你自己的可以自由提交的仓库，然后可以通过的Pull Request把你的提交贡献回 原仓库。
@@ -24,7 +27,9 @@ Fork 的本义是  叉子（名词） 。
 
 
 拿 bootstrap 来举例子，你 fork 了bootstrap 项目之后再你的仓库中就会出现一份完全一样的 bootstrap ，
+
 这是你的 bootstrap 只是官方 bootstrap 的一个分支，丝毫不会影响到官方。
+
 你看到了 bootstrap 中的一个 bug ，并且在自己分支的 bootstrap 中修复了这个bug，
-崇尚开源精神的你怎么能无动于衷，你想要贡献自己的一份力量，
-这时你就可以向官方 bootstrap 提出合并请求。
+
+崇尚开源精神的你怎么能无动于衷，你想要贡献自己的一份力量，这时你就可以向官方 bootstrap 提出合并请求。
